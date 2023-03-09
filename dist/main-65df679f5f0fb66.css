@@ -1,0 +1,27 @@
+.msquare {
+    border-radius: 25px;
+    padding: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 10px #e9e7e7;
+    margin: 5px;
+} 
+
+  .breakfast{
+    background: #cf6848;
+  }
+
+   .lunch{
+    background: #73AD21;
+  }
+   .exercise{
+    background: #6183d8;
+  }
+   .dinner{
+    background: #ad9821;
+  }
+   .snack{
+    background: #b38787;
+  }
+  
